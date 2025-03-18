@@ -1,4 +1,4 @@
-##Project Description
+**Project Description**
 
 This project analyzes data from the entertainment app Procrastinate Pro+, which has been experiencing financial losses despite significant advertising investments. The goal is to identify the causes and provide insights to help the company become profitable.
 
